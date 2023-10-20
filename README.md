@@ -21,7 +21,6 @@ JATE Writer PWA is a web-based single-page text editor application designed to o
 
 
 ## [License](#table-of-contents)
-[MIT License](https://opensource.org/licenses/MIT)
 
 
 ## [Badges](#table-of-contents)
